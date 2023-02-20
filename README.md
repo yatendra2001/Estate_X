@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# EstateX: Real Estate NFT DApp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+EstateX is a web3 real estate NFT marketplace on ethereum blockchain. It is a secure, decentralized, and transparent platform for real estate transactions.
 
 Try running some of the following tasks:
 
